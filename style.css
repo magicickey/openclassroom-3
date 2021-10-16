@@ -1,4 +1,9 @@
 /* Feuille de styles CSS */
+body 
+{
+  background-image:url('');
+  color: blue;
+}
 
 h1 {
   color: rgb(255,0,0);
