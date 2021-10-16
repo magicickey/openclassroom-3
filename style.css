@@ -3,11 +3,13 @@ body
 {
   background-image:url('dd7b5a454c6e895ec6f409f45e939c09.jpg');
   color: blue;
+  font-family: 'Anton', sans-serif;
 }
 
 h1 {
   color: rgb(255,0,0);
   font-size: 3em;
+  font-family: 'Anton', sans-serif;
 }
 
 figure {
@@ -16,8 +18,8 @@ figure {
 
 
 ul {
-  border: 1px solid green;
-  box-shadow: 6px 6px 0px black;
+  border: 1px solid pink;
+  box-shadow: 6px 6px 0px blue;
 }
 
 
